@@ -50,6 +50,7 @@ class Rectangle():
             return self.width * self.height
 
 
+
     # Create the "perimeter" method
     #
     # It first verifies inputs and return "Invalid input" if they are invalid.
